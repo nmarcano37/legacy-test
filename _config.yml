@@ -43,9 +43,9 @@ metadata: legacy
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-banner: https://libapps.s3.amazonaws.com/customers/29/images/legacy-of-slavery-header.jpg
+#organization-logo-banner: https://libapps.s3.amazonaws.com/customers/29/images/legacy-of-slavery-header.jpg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-organization-logo-nav: https://libapps.s3.amazonaws.com/customers/29/images/legacy-of-slavery-header.jpg
+#organization-logo-nav: https://libapps.s3.amazonaws.com/customers/29/images/legacy-of-slavery-header.jpg
 
 
 
